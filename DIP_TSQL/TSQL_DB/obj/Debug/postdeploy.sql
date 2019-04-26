@@ -27,3 +27,4 @@ INSERT INTO dbo.Log (OrigAcct, LogDateTime, RecAcct, Amount) VALUES
 (34567890, '2019-01-17 05:05:05.050', -200, 50);
 
 END;
+GO

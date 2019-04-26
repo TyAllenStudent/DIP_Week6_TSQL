@@ -1,0 +1,9 @@
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\bin\Debug\TSQL_DB.dacpac
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\bin\Debug\TSQL_DB.dll
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\bin\Debug\TSQL_DB.pdb
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\obj\Debug\TSQL_DB.dll
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\obj\Debug\TSQL_DB.pdb
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\obj\Debug\Model.xml
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\obj\Debug\refactor.xml
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\obj\Debug\postdeploy.sql
+C:\Dev Projects\DIP_Week6_TSQL\DIP_TSQL\TSQL_DB\obj\Debug\predeploy.sql
